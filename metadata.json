@@ -1,12 +1,12 @@
 {
-  "name": "tca_puppet_pe_metric_curl_cron_jobs",
-  "version": "4.6.1",
+  "name": "tca_puppet-pe_metric_curl_cron_jobs",
+  "version": "4.6.2",
   "author": "npwalker",
   "summary": "A Puppet module for gathering metrics from PE components",
   "license": "Apache-2.0",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_pe_metric_curl_cron_jobs",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_pe_metric_curl_cron_jobs",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_pe_metric_curl_cron_jobs/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-pe_metric_curl_cron_jobs",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-pe_metric_curl_cron_jobs",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-pe_metric_curl_cron_jobs/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 2.6.0"}
   ],
